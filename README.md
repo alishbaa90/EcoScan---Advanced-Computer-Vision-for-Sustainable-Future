@@ -20,3 +20,4 @@ EcoScan is a browser-native vision intelligence tool designed to automate waste 
 - Result Mapping: The output tensor is parsed, mapped against the 44-label array, and displayed with a confidence score.
 
 ## 🖼️ Screenshots
+https://github.com/alishbaa90/EcoScan---Advanced-Computer-Vision-for-Sustainable-Future/issues/1#issue-4234462612
